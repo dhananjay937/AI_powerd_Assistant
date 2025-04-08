@@ -147,8 +147,7 @@ pip freeze > requirements.txt
 
 ## 📸 Demo Screenshot
 
-![Demo](screenshot.png)  
-*(Add a screenshot of your Streamlit app if desired)*
+![Demo](Screenshot (141).png)  
 
 ---
 
