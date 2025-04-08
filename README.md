@@ -147,7 +147,7 @@ pip freeze > requirements.txt
 
 ## 📸 Demo Screenshot
 
-![Demo](Screenshot (141).png)  
+![Demo](https://github.com/dhananjay937/AI_powerd_Assistant/blob/main/Screenshot%20(141).png)  
 
 ---
 
