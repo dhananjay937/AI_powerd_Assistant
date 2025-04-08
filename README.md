@@ -155,9 +155,7 @@ pip freeze > requirements.txt
 
 Made with ❤️ by [Your Name]  
 📧 Email: patildhananjay1307@gmail.com 
-🔗 LinkedIn: [www.linkedin.com/in/dhananjay-patil-b25423315
-
-]
+🔗 LinkedIn: [www.linkedin.com/in/dhananjay-patil-b25423315]
 
 ---
 
